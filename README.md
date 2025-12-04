@@ -77,3 +77,23 @@ SainiON Hacks
 🔗 https://github.com/SainiONHacks
 
 ▶️ https://www.youtube.com/@SainiONHacks
+
+# 🤝 Contributing to HTTP Repeater
+
+Thank you for considering contributing!
+
+This project welcomes improvements, bug fixes, documentation updates, and new feature ideas.
+
+---
+
+## 🗂 How to Contribute
+
+### 1. Fork the repository
+### 2. Buy me a coffee 
+<p align="center">
+  <a href="https://buymeacoffee.com/nitinsainir" target="_blank" rel="noopener">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px;">
+  </a>
+</p>
+
+
